@@ -1,10 +1,10 @@
 print("🌑EclipseX")
 local whitelist = {
     [8045478913] = true,   -- Substitua pelo UserId do "NexiliteInfinity"
-    [5522258127] = true,   -- Substitua pelo UserId do "SjYj4nKH"
-    [8183505991] = true,   -- Substitua pelo UserId do ""
-    [8183471559] = true,   -- Substitua pelo UserId do ""
-    [8147913402] = true,   -- Substitua pelo UserId do ""
+    [8183463103] = true,   -- Substitua pelo UserId do "julesX9990"
+    [8183471559] = true,   -- Substitua pelo UserId do "pandaB_049"
+    [8183485126] = true,   -- Substitua pelo UserId do "shadowWolf23552"
+    [8147913402] = true,   -- Substitua pelo UserId do "ShadowNinja54321014"
     [0000000000] = true,   -- Substitua pelo UserId do ""
     [0000000000] = true,   -- Substitua pelo UserId do ""
     [0000000000] = true,   -- Substitua pelo UserId do ""
@@ -571,7 +571,7 @@ local function deletarNotifyGui()
 end
 
 -- Lista de itens para pegar
-local itens = {"Tratamento", "AR-15", "Glock 17", "Escudo", "Peça de Arma", "AK47", "Uzi", "PARAFAL", "Faca", "IA2", "G3", "iPhone 14", "Agua", "Hamburguer", "Hi Power", "Natalina"}
+local itens = {"Lockpick", "Tratamento", "AR-15", "Glock 17", "Escudo", "Peça de Arma", "AK47", "Uzi", "PARAFAL", "Faca", "IA2", "G3", "iPhone 14", "Agua", "Hamburguer", "Hi Power", "Natalina"}
 
 -- Argumentos para a requisição
 local args = {
